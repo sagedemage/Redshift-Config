@@ -1,7 +1,7 @@
 # Redshift.conf file location
 ~/.config/redshift/redshift.conf
 
-Config steps
+## Configuration steps
 1. Make directory
 ```
 mkdir ~/.config/redshift/
