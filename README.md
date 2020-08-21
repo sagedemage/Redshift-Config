@@ -1,1 +1,12 @@
+# Redshift.conf file location
 ~/.config/redshift/redshift.conf
+
+Config steps
+1. Make directory
+```
+mkdir ~/.config/redshift/
+```
+2. Create the file and edit it
+```
+sudo vim ~/.config/redshift/redshift.conf
+```
