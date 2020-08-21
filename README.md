@@ -1,4 +1,7 @@
-# Redshift.conf file location
+# About
+A redshift configuration for my location.
+
+## Redshift.conf file location
 ~/.config/redshift/redshift.conf
 
 ## Configuration steps
