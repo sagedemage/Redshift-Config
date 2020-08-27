@@ -1,0 +1,8 @@
+[Unit]
+Description=Redshift, night screen filter
+
+[Service]
+ExecStart=/usr/bin/redshift-gtk
+
+[Install]
+WantedBy=default.target
