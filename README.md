@@ -11,6 +11,6 @@ mkdir ~/.config/redshift/
 ```
 2. Create the file and edit it
 ```
-sudo vim ~/.config/redshift/redshift.conf
+nvim ~/.config/redshift/redshift.conf
 ```
 
