@@ -1,4 +1,4 @@
-# About
+# redshift config
 A redshift configuration for my location.
 
 ## Redshift.conf file location
