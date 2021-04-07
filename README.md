@@ -1,5 +1,5 @@
 # redshift config
-A redshift configuration to help protect my eyes.
+A redshift configuration to help ease my eyes.
 
 ## Redshift.conf file location
 ~/.config/redshift/redshift.conf
